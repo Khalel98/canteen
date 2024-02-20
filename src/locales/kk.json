@@ -1,0 +1,41 @@
+{
+  "choose__free": "Льготті тамақ",
+  "choose__paid": "Төлеу тамақ",
+
+  "authorization__login": "ЖСН",
+  "authorization__password": "Құпия сөз",
+  "authorization__password__rule": "Құпия сөз кем дегенде 5 символдан тұруы керек",
+  "authorization__rule": "Толтыру керек",
+  "authorization__enter": "Кіру",
+  "authorization__alert": "Деректер қате енгізілді",
+
+  "free__header__count__true": "Оқушылардың жалпы саны",
+  "free__header__count__false": "Бүгінгі күнге тамақ алмайтындардың саны",
+  "free__header__action": "Қабылдау",
+  "free__filter__status__all": "Барлық",
+  "free__filter__status__free__true": "Тамақ алды",
+  "free__filter__status__free__false": "Тамақ алмады",
+  "free__success": "бүгін льготті тамақ алды",
+  "free__error": "тізімде табылмады",
+
+  "free__table__iin": "ЖСН",
+  "free__table__fullname": "Толық аты",
+  "free__table__card__num": "Карта номері",
+  "free__table__status": "Мәртебесі",
+  "free__table__date": "Күні",
+
+  "free__modal__title": "Беру",
+  "free__modal__scan": "Картаны сканерлеңіз",
+  "free__modal__status": "Статус",
+  "free__modal__student": "Оқушы",
+  "free__modal__iin": "ЖСН",
+  "free__modal__alert": "Дұрыс NFC оқу үшін пернетақта орналасуын ағылшын тіліне ауыстырыңыз",
+
+  "global__exit": "Шығу",
+  "global__close": "Жабу",
+  "global__status": "Мәртебе",
+  "global__class": "Сыныпты таңдау",
+  "global__return": "Артқа",
+  "global__search": "Іздеу",
+  "global__nodata": "Деректер жоқ"
+}
