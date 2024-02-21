@@ -9,7 +9,7 @@ import { fileURLToPath, URL } from "node:url";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/canteen/",
+  base: "",
   plugins: [
     vue({
       template: { transformAssetUrls },
